@@ -20,4 +20,4 @@ An AI-powered language tutor built with Langflow.
 
 ## Built with
 - Langflow
-- Gemini 2.5 Flash
+- OpenRouter API
